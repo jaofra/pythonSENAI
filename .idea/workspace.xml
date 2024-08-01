@@ -1,0 +1,188 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="2ebb00ad-e4f1-44be-997b-5007fccf81b3" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 4
+}</component>
+  <component name="ProjectId" id="2f0c2rylnlPydGIrQ2sAOEHZPAe" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Python.1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.5.executor&quot;: &quot;Run&quot;,
+    &quot;Python.jao exemplo.executor&quot;: &quot;Run&quot;,
+    &quot;Python.jao.executor&quot;: &quot;Run&quot;,
+    &quot;Python.jao0.executor&quot;: &quot;Run&quot;,
+    &quot;Python.jao1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.jao2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.jao3.executor&quot;: &quot;Run&quot;,
+    &quot;Python.jao4.executor&quot;: &quot;Run&quot;,
+    &quot;Python.jao5.executor&quot;: &quot;Run&quot;,
+    &quot;Python.jao6.executor&quot;: &quot;Run&quot;,
+    &quot;Python.jao7.executor&quot;: &quot;Run&quot;,
+    &quot;Python.jao8.executor&quot;: &quot;Run&quot;,
+    &quot;Python.jao9.executor&quot;: &quot;Run&quot;,
+    &quot;Python.jaofra.executor&quot;: &quot;Run&quot;,
+    &quot;Python.main.executor&quot;: &quot;Run&quot;,
+    &quot;Python.pasta 2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.pasta.executor&quot;: &quot;Run&quot;,
+    &quot;Python.try_exception.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/João Francisco/PycharmProjects/pythonProjectSENAI/Projetos/Calculadora Ohm&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;vcs.Git&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\João Francisco\PycharmProjects\pythonProjectSENAI\Projetos\Calculadora Ohm" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\João Francisco\PycharmProjects\pythonProjectSENAI\Exercícios\funçao" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="pasta 2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="pythonProjectSENAI" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Projetos/Calculadora Ohm" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Projetos/Calculadora Ohm/pasta 2.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.pasta 2" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-1d06a55b98c1-74d2a5396914-JavaScript-PY-241.14494.241" />
+        <option value="bundled-python-sdk-0509580d9d50-28c9f5db9ffe-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-241.14494.241" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2ebb00ad-e4f1-44be-997b-5007fccf81b3" name="Changes" comment="" />
+      <created>1712941232063</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1712941232063</updated>
+      <workItem from="1712941233016" duration="6811000" />
+      <workItem from="1713444563308" duration="5006000" />
+      <workItem from="1713550787139" duration="5536000" />
+      <workItem from="1713556696174" duration="5000" />
+      <workItem from="1714044818607" duration="19475000" />
+      <workItem from="1714134482913" duration="34000" />
+      <workItem from="1714138944999" duration="3802000" />
+      <workItem from="1714647967105" duration="1375000" />
+      <workItem from="1714668714217" duration="21000" />
+      <workItem from="1714669742940" duration="17000" />
+      <workItem from="1714670773590" duration="85000" />
+      <workItem from="1714673322439" duration="321000" />
+      <workItem from="1714674218633" duration="5076000" />
+      <workItem from="1714733668586" duration="17340000" />
+      <workItem from="1715253023522" duration="2954000" />
+      <workItem from="1715341733633" duration="8738000" />
+      <workItem from="1715858896653" duration="11948000" />
+      <workItem from="1715885239950" duration="137000" />
+      <workItem from="1715885419635" duration="31000" />
+      <workItem from="1716467352136" duration="1357000" />
+      <workItem from="1716470247470" duration="3610000" />
+      <workItem from="1716549104803" duration="6109000" />
+      <workItem from="1719573296196" duration="4512000" />
+      <workItem from="1722530120955" duration="2988000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Exercícios/Estrutura Condicional/jao9.py</url>
+          <line>61</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/exemplos/jao funçao.py</url>
+          <line>26</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Exercícios/Estrutura Condicional/jao4.py</url>
+          <line>22</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/pythonProjectSENAI$jaofra.coverage" NAME="jaofra Coverage Results" MODIFIED="1714139918084" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Projetos/Calculadora Ohm" />
+    <SUITE FILE_PATH="coverage/pythonProjectSENAI$jao7.coverage" NAME="jao7 Coverage Results" MODIFIED="1714753786185" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Exercícios/Estrutura Condicional" />
+    <SUITE FILE_PATH="coverage/pythonProjectSENAI$5.coverage" NAME="5 Coverage Results" MODIFIED="1715880466410" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Exercícios/funçao" />
+    <SUITE FILE_PATH="coverage/pythonProjectSENAI$pasta.coverage" NAME="pasta Coverage Results" MODIFIED="1714140787214" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/jao" />
+    <SUITE FILE_PATH="coverage/pythonProjectSENAI$jao6.coverage" NAME="jao6 Coverage Results" MODIFIED="1714753813143" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Exercícios/Estrutura Condicional" />
+    <SUITE FILE_PATH="coverage/pythonProjectSENAI$jao3.coverage" NAME="jao3 Coverage Results" MODIFIED="1715365873514" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Exercícios/Estrutura Condicional" />
+    <SUITE FILE_PATH="coverage/pythonProjectSENAI$try_exception.coverage" NAME="try_exception Coverage Results" MODIFIED="1714670799431" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/jao" />
+    <SUITE FILE_PATH="coverage/pythonProjectSENAI$jao_exemplo.coverage" NAME="jao exemplo Coverage Results" MODIFIED="1715367659041" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/exemplos" />
+    <SUITE FILE_PATH="coverage/pythonProjectSENAI$main.coverage" NAME="main Coverage Results" MODIFIED="1714668718297" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Projetos/jogo da adivinhação" />
+    <SUITE FILE_PATH="coverage/pythonProjectSENAI$jao.coverage" NAME="jao Coverage Results" MODIFIED="1714676955988" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Exercícios/Estrutura Condicional" />
+    <SUITE FILE_PATH="coverage/pythonProjectSENAI$jao5.coverage" NAME="jao5 Coverage Results" MODIFIED="1714753847183" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Exercícios/Estrutura Condicional" />
+    <SUITE FILE_PATH="coverage/pythonProjectSENAI$1.coverage" NAME="1 Coverage Results" MODIFIED="1715867352131" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Exercícios/funçao" />
+    <SUITE FILE_PATH="coverage/pythonProjectSENAI$pasta_2.coverage" NAME="pasta 2 Coverage Results" MODIFIED="1716551176303" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Projetos/Calculadora Ohm" />
+    <SUITE FILE_PATH="coverage/pythonProjectSENAI$jao2.coverage" NAME="jao2 Coverage Results" MODIFIED="1714753910837" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Exercícios/Estrutura Condicional" />
+    <SUITE FILE_PATH="coverage/pythonProjectSENAI$jao9.coverage" NAME="jao9 Coverage Results" MODIFIED="1715860295717" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Exercícios/Estrutura Condicional" />
+    <SUITE FILE_PATH="coverage/pythonProjectSENAI$jao0.coverage" NAME="jao0 Coverage Results" MODIFIED="1714737241659" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Exercícios/Estrutura Condicional" />
+    <SUITE FILE_PATH="coverage/pythonProjectSENAI$jao1.coverage" NAME="jao1 Coverage Results" MODIFIED="1714753931575" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Exercícios/Estrutura Condicional" />
+    <SUITE FILE_PATH="coverage/pythonProjectSENAI$jao4.coverage" NAME="jao4 Coverage Results" MODIFIED="1715859745365" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Exercícios/Estrutura Condicional" />
+    <SUITE FILE_PATH="coverage/pythonProjectSENAI$jao8.coverage" NAME="jao8 Coverage Results" MODIFIED="1714753759424" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Exercícios/Estrutura Condicional" />
+    <SUITE FILE_PATH="coverage/pythonProjectSENAI$2.coverage" NAME="2 Coverage Results" MODIFIED="1715860881720" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/exemplos" />
+  </component>
+</project>
